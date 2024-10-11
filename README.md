@@ -1,0 +1,1 @@
+# terraform-azurerm-user-assigned-identity
